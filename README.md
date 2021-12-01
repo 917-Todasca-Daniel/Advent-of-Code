@@ -1,2 +1,2 @@
-# Advent-of-Code-2020
-my little python solutions for AoC 2020
+# Advent-of-Code
+Repository for my solutions over the years: 2020 (Python), 2021 (Kotlin)
