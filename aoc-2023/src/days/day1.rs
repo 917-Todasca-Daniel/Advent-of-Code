@@ -56,8 +56,8 @@ fn get_calibration_number_with_strings_match(line: &str) -> i32 {
     }
 }
 
-pub fn solve_part1() {
-    println!("Solving part 1 of day 1...");
+pub fn solve_day() {
+    println!("Solving day 1...");
 
     match file_io::read_lines(String::from(INPUT_PATH)) {
         Ok(lines) => {
